@@ -30,7 +30,8 @@ owchart.png)
 ## 📂 Projects
 Here are some of the projects I’ve worked on:
 
-- **🚗 Parking Sensors System** – Ultrasonic sensor-based parking assistance with buzzer alerts.  
+- **🚗 Parking Sensors System** – Ultrasonic sensor-based parking assistance with buzzer alerts.
+  [![Parking Sensor Setup](images/parking-sensor-setup.png)](https://github.com/<your-username>/Parking-Sensor)
 - **⏱ Dual Mode Stopwatch** – Increment/Countdown stopwatch using 7-segment multiplexing & ISRs.  
 - **🔐 Door Lock System** – UART-based password verification and EEPROM storage.  
 - **🏠 Smart Home Communication** – Multi-MCU UART communication to control lights & door locks.  
