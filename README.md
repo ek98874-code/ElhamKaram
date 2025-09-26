@@ -12,8 +12,7 @@ I love building real-time systems, developing low-level drivers, and working wit
 - Hands-on experience in **electric vehicle systems** and **control design**.
 - Adept at using tools like **Proteus, AutoCAD, SolidWorks**, and debugging embedded systems.
 
-   ![Smart Home Flowchart](images/smart-home-fl![WhatsApp Image 2025-05-13 at 01 12 54_f8978204](https://github.com/user-attachments/assets/580bc18a-766d-4f19-905c-a15bf320b294)
-owchart.png)
+   
 
 
 ---
@@ -31,7 +30,6 @@ owchart.png)
 Here are some of the projects I’ve worked on:
 
 - **🚗 Parking Sensors System** – Ultrasonic sensor-based parking assistance with buzzer alerts.
-  [![Parking Sensor Setup](images/parking-sensor-setup.png)](https://github.com/<your-username>/Parking-Sensor)
 - **⏱ Dual Mode Stopwatch** – Increment/Countdown stopwatch using 7-segment multiplexing & ISRs.  
 - **🔐 Door Lock System** – UART-based password verification and EEPROM storage.  
 - **🏠 Smart Home Communication** – Multi-MCU UART communication to control lights & door locks.  
