@@ -2,7 +2,7 @@
 
 Hi! I'm **Elham**, a Computer Engineering student at Nile University passionate about **embedded systems, electric vehicles, and IoT solutions**.  
 I love building real-time systems, developing low-level drivers, and working with microcontrollers to solve real-world problems.  
-
+![Profile Picture](WhatsApp Image 2025-05-13 at 01.12.54_f8978204.jpg)
 ---
 
 ## 🧾 Professional Summary
