@@ -49,7 +49,7 @@ Here are some of the projects I’ve worked on:
 
 ## 🌐 Connect with Me
 - **LinkedIn:** [linkedin.com/in/elham-karam-1b797a2b2](https://www.linkedin.com/in/elham-karam-1b797a2b2/)  
-- **Email:** ek98874@gmail.com  
+- **Email:** elham.karam02@gmail.com  
 - **Phone:** +20 1019893584  
 
 ---
