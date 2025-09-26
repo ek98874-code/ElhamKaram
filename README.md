@@ -50,7 +50,8 @@ Here are some of the projects I’ve worked on:
 ## 🏆 Extracurricular Activities
 **Ever Electric Vehicles Competition – Team Member (Electric Part)**  
 - Contributed to the development & optimization of the electric powertrain and control systems.  
-- Helped the team achieve **3rd fast
+- Helped the team achieve
+- 3rd fast car 
   https://drive.google.com/drive/folders/1tOM2kxadPLK9x4XbVqFRu8CEZy0Nki2V?usp=sharing
 
 
