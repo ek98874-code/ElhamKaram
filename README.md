@@ -11,8 +11,10 @@ I love building real-time systems, developing low-level drivers, and working wit
 - Skilled in **driver development**, **RTOS programming**, and **AUTOSAR** concepts.
 - Hands-on experience in **electric vehicle systems** and **control design**.
 - Adept at using tools like **Proteus, AutoCAD, SolidWorks**, and debugging embedded systems.
-  
-![WhatsApp Image 2025-05-13 at 01 12 54_f8978204](https://github.com/user-attachments/assets/042946c6-6e76-48bf-bc1d-1a0c71bb0283)
+
+   ![Smart Home Flowchart](images/smart-home-fl![WhatsApp Image 2025-05-13 at 01 12 54_f8978204](https://github.com/user-attachments/assets/580bc18a-766d-4f19-905c-a15bf320b294)
+owchart.png)
+
 
 ---
 
