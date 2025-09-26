@@ -18,11 +18,23 @@ I love building real-time systems, developing low-level drivers, and working wit
 ---
 
 ## 🛠 Skills
-- **Programming:** C, C++, Python  
-- **Microcontrollers:** AVR (ATmega32), Arduino, TM4C123G  
-- **Communication Protocols:** SPI, UART, I2C, PWM, GPIO, PORT, DCM  
-- **Embedded Systems:** Driver Development, RTOS, AUTOSAR, MISRA Rules  
-- **Tools & Apps:** Proteus, SolidWorks, AutoCAD, Git/GitHub, Debugging Tools  
+<details>
+  <summary>Click to View Skills with Images</summary>
+
+### Programming Languages  
+![C](images/c-logo.png) ![C++](images/cpp-logo.png) ![Python](images/python-logo.png)
+
+### Microcontrollers  
+![ATmega32](images/atmega32.png) ![Arduino](images/arduino.png) ![TM4C123G](images/tm4c123g.png)
+
+### Tools & Apps  
+![Proteus](images/proteus.png) ![SolidWorks](images/solidworks.png) ![AutoCAD](images/autocad.png)
+
+### Embedded Systems  
+![AUTOSAR](images/autosar.png) ![RTOS](images/rtos.png) ![ARM](images/arm.png)
+
+</details>
+
 
 ---
 
